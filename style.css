@@ -1,0 +1,16 @@
+* {
+    color:white;
+}
+.container-fluid {
+    background-color: rgb(1, 9, 58);
+}
+.titulo {
+    background-color: rgb(1, 9, 58);
+    text-align: center;
+}
+.ms-3 {
+background-color: rgb(1, 9, 58);
+}
+.card {
+    background-color: rgb(1, 9, 58);
+}
